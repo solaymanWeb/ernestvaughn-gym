@@ -930,7 +930,9 @@ width: max-content;
     height: 100%;
     right: 100%;
 }
-
+.header-logo img {
+    width: 70px;
+}
 /* footer end */
 
 
